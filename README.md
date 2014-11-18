@@ -1,4 +1,4 @@
-GPH_598_Project_1
+GPH598_Project1
 =================
 
 Point Pattern Data and Argorithms
