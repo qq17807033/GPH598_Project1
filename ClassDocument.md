@@ -10,3 +10,6 @@ pysal.core.FileIO.FileIO.**[open](http://www.pysal.org/library/open.html#FileIO.
 ##[Descriptive point patterns II](https://github.com/GPH498598F14/GPH498598F14/blob/master/project/09_point_distance.pdf)
 
 ##[Convex Hull](http://docs.scipy.org/doc/scipy-dev/reference/generated/scipy.spatial.ConvexHull.html)
+Method |Description                                               
+---|---
+scipy.spatial.**[ConvexHull](http://docs.scipy.org/doc/scipy-dev/reference/generated/scipy.spatial.ConvexHull.html)**(points,points[, incremental, qhull_options]) | Create a Convex hulls in N dimensions.
