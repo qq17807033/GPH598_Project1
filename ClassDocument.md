@@ -18,7 +18,7 @@ pysal.core.FileIO.FileIO.**[open](http://www.pysal.org/library/open.html#FileIO.
 •	Standard distance 
 
 
-##[Convex Hull](http://docs.scipy.org/doc/scipy-dev/reference/generated/scipy.spatial.ConvexHull.html)
+##Polygon
 Method |Description                                               
 ---|---
 scipy.spatial.**[ConvexHull](http://docs.scipy.org/doc/scipy-dev/reference/generated/scipy.spatial.ConvexHull.html)**(points[, incremental, qhull_options]) | Creates a Convex hulls in N dimensions.
